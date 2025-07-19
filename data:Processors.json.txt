@@ -1,0 +1,31 @@
+data/Processors.json
+[
+  {
+    "name": "Apple A17 Pro",
+    "architecture": "ARM",
+    "nano": "3 nm",
+    "devices": ["iPhone 15 Pro", "iPhone 15 Pro Max"],
+    "performance": "الأفضل"
+  },
+  {
+    "name": "Apple A16 Bionic",
+    "architecture": "ARM",
+    "nano": "4 nm",
+    "devices": ["iPhone 14 Pro", "iPhone 14 Pro Max", "iPhone 15 Plus"],
+    "performance": "ممتاز جدًا"
+  },
+  {
+    "name": "HiSilicon Kirin 9000",
+    "architecture": "ARM Cortex-A77/A55",
+    "nano": "5 nm",
+    "devices": ["Huawei Mate 40 Pro", "Honor Magic4 Pro"],
+    "performance": "رائد"
+  },
+  {
+    "name": "Samsung Exynos 2100",
+    "architecture": "ARM Cortex-X1/A78/A55",
+    "nano": "5 nm",
+    "devices": ["Galaxy S21 Series"],
+    "performance": "جيد جدًا"
+  }
+]
